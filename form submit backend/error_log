@@ -1,0 +1,62 @@
+[11-Oct-2021 18:56:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:00:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:00:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:00:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:00:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:00:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:01:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[11-Oct-2021 19:01:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php on line 68
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Premature end of data in tag t line 2 in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string(): ra College of Engineering &lt;/t&gt;&lt;/si&gt;&lt;si&gt;&lt;t&gt;2021-10-18 10:02:57 pm&lt;/t&gt;&lt;/si&gt;&lt;si&gt;&lt;t&gt; in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Premature end of data in tag si line 2 in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string(): ra College of Engineering &lt;/t&gt;&lt;/si&gt;&lt;si&gt;&lt;t&gt;2021-10-18 10:02:57 pm&lt;/t&gt;&lt;/si&gt;&lt;si&gt;&lt;t&gt; in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Premature end of data in tag sst line 2 in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string(): ra College of Engineering &lt;/t&gt;&lt;/si&gt;&lt;si&gt;&lt;t&gt;2021-10-18 10:02:57 pm&lt;/t&gt;&lt;/si&gt;&lt;si&gt;&lt;t&gt; in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 429
+[19-Oct-2021 13:26:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx\Styles::__construct() must be an instance of SimpleXMLElement, bool given, called in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 562 and defined in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx/Styles.php:31
+Stack trace:
+#0 /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(562): PhpOffice\PhpSpreadsheet\Reader\Xlsx\Styles->__construct(false)
+#1 /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php(25): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('../sheets/cshc2...')
+#2 {main}
+  thrown in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx/Styles.php on line 31
+[27-Oct-2021 21:17:52 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 1515
+[27-Oct-2021 21:17:52 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 1525
+[29-Oct-2021 16:46:09 Asia/Calcutta] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: Unable to identify a reader for this file in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:140
+Stack trace:
+#0 /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(84): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../sheets/cshc2...')
+#1 /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php(63): PhpOffice\PhpSpreadsheet\IOFactory::load('../sheets/cshc2...')
+#2 {main}
+  thrown in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 140
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Malformed declaration expecting version in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): &lt;?xml versio in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string():       ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Blank needed here in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): &lt;?xml versio in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string():       ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : parsing XML declaration: '?&gt;' expected in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): &lt;?xml versio in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string():       ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string(): &lt;?xml versio in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Warning:  simplexml_load_string():             ^ in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 623
+[30-Oct-2021 07:49:36 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx\Hyperlinks::readHyperlinks() must be an instance of SimpleXMLElement, bool given, called in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 829 and defined in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx/Hyperlinks.php:20
+Stack trace:
+#0 /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(829): PhpOffice\PhpSpreadsheet\Reader\Xlsx\Hyperlinks->readHyperlinks(false)
+#1 /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(86): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('../sheets/cshc2...')
+#2 /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php(63): PhpOffice\PhpSpreadsheet\IOFactory::load('../sheets/cshc2...')
+#3 {main}
+  thrown in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx/Hyperlinks.php on line 20
+[30-Oct-2021 19:40:46 Asia/Calcutta] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: Unable to identify a reader for this file in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:140
+Stack trace:
+#0 /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(84): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../sheets/cshc2...')
+#1 /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php(63): PhpOffice\PhpSpreadsheet\IOFactory::load('../sheets/cshc2...')
+#2 {main}
+  thrown in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 140
+[30-Oct-2021 20:22:31 Asia/Calcutta] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: Unable to identify a reader for this file in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:140
+Stack trace:
+#0 /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(84): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../sheets/cshc2...')
+#1 /home2/ieeehydorg21/public_html/sac/form submit backend/cshc registration form.php(63): PhpOffice\PhpSpreadsheet\IOFactory::load('../sheets/cshc2...')
+#2 {main}
+  thrown in /home2/ieeehydorg21/public_html/sac/php_sheets/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 140
